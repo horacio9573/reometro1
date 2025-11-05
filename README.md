@@ -11,7 +11,7 @@ El simulador responde a comandos seriales específicos para iniciar la generaci�
 ## ⚙️ Instalación
 
 1.  **Software Requerido:** Necesitarás el **IDE de Arduino** instalado.
-2.  **Hardware:** Un **Arduino Nano** (o compatible).
+2.  **Hardware:** Un **ESP32** (o compatible).
 3.  **Carga del Código:**
     * Abre el archivo `Simulador_reo_nuevo.ino` en el IDE de Arduino.
     * Selecciona la placa correcta (`Arduino Nano`) y el puerto serial.
